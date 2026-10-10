@@ -1,0 +1,58 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset meta data for folders created outside Unity
+!/[Aa]ssets/**/*.meta
+
+# Unity3D generated
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crash reports
+sysinfo.txt
+crashlytics-build.properties
+
+# Houdini Engine / HDA temp output
+HoudiniTemp/
+[Hh]oudini[Cc]ache/
+
+# Precompiled / native libs
+*.dll.meta
