@@ -31,7 +31,7 @@ Houdini Engine Core    HAPI Session / HDA Cook / 几何输出（外部）
 
 ## 技术依赖
 
-- Unity（建议 Unity 6）
+- Unity 2022.3
 - Houdini Engine for Unity 插件（Houdini Engine Core）
 - Unity GraphView（`UnityEditor.Experimental.GraphView`）
 - Unity Job System / Burst Compiler
@@ -39,12 +39,12 @@ Houdini Engine Core    HAPI Session / HDA Cook / 几何输出（外部）
 
 ## 文档
 
-- [设计方案](设计方案.md)：完整架构与模块设计。
-- [开发规划](开发规划.md)：里程碑、任务分解与验收标准。
+- [设计方案](docs~/设计方案.md)：完整架构与模块设计。
+- [开发规划](docs~/开发规划.md)：里程碑、任务分解与验收标准。
 
 ## 状态
 
-早期开发阶段。详见[开发规划](开发规划.md)。
+早期开发阶段。详见[开发规划](docs~/开发规划.md)。
 
 ## 许可证
 
